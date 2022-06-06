@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-mariehart/static/css/main.fd98c89b.css",
+    "main.js": "/portfolio-mariehart/static/js/main.34422677.js",
+    "static/js/787.11baedba.chunk.js": "/portfolio-mariehart/static/js/787.11baedba.chunk.js",
+    "static/media/coding.jpg": "/portfolio-mariehart/static/media/coding.739b18ce2887dd9a9a49.jpg",
+    "static/media/map.jpg": "/portfolio-mariehart/static/media/map.2b5a0100301aaa3154fd.jpg",
+    "index.html": "/portfolio-mariehart/index.html",
+    "main.fd98c89b.css.map": "/portfolio-mariehart/static/css/main.fd98c89b.css.map",
+    "main.34422677.js.map": "/portfolio-mariehart/static/js/main.34422677.js.map",
+    "787.11baedba.chunk.js.map": "/portfolio-mariehart/static/js/787.11baedba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd98c89b.css",
+    "static/js/main.34422677.js"
+  ]
+}
