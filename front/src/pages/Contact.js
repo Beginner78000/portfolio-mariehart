@@ -30,7 +30,7 @@ const Contact = () => {
             </li>
             <li>
               <i className="far fa-envelope"></i>
-              <CopyToClipboard text="monmail@mail.com">
+              <CopyToClipboard text="mariehdek@yahoo.fr">
                 <span
                   className="clickInput"
                   onClick={() => {
@@ -55,7 +55,7 @@ const Contact = () => {
               <i className="fab fa-linkedin"></i>
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/Beginner78000/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -71,7 +71,7 @@ const Contact = () => {
               <i className="fab fa-twitter"></i>
             </a>
             <a
-              href="https://codepen.com"
+              href="https://codepen.io/beginner78000"
               target="_blank"
               rel="noopener noreferrer"
             >

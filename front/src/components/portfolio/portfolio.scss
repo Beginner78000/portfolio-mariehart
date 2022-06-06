@@ -21,6 +21,10 @@ $minHeight: 95vh;
   align-items: center;
 }
 
+.global-container {
+  display: flex;
+}
+
 .portfolioContent {
   width: 100%;
   display: grid;

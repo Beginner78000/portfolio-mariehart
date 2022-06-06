@@ -12,7 +12,7 @@ const OtherSkills = () => {
           </li>
           <li>
             <i className="fas fa-check-square margin"></i>
-            Github
+            Git & Github
           </li>
           <li>
             <i className="fas fa-check-square margin"></i>
@@ -20,7 +20,7 @@ const OtherSkills = () => {
           </li>
           <li>
             <i className="fas fa-check-square margin"></i>
-            Opquast
+            PostgreSQL
           </li>
         </ul>
         <ul>
@@ -38,7 +38,7 @@ const OtherSkills = () => {
           </li>
           <li>
             <i className="fas fa-check-square margin"></i>
-            TypeScript
+            React
           </li>
         </ul>
       </div>

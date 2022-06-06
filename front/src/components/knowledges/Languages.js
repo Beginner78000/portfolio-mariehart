@@ -7,7 +7,6 @@ export default class Languages extends Component {
       { id: 1, value: "Javascript", xp: 1 },
       { id: 2, value: "Css", xp: 1.5 },
       { id: 3, value: "Typescript", xp: 0.5 },
-      { id: 4, value: "React", xp: 0.5 },
       { id: 5, value: "SQL", xp: 0.5 },
     ],
     frameworks: [
@@ -15,7 +14,6 @@ export default class Languages extends Component {
       { id: 2, value: "Bootstrap", xp: 0.5 },
       { id: 3, value: "Express", xp: 1 },
       { id: 4, value: "NestJS", xp: 0.5 },
-      { id: 5, value: "PostgreSQL", xp: 0.5 },
     ],
   };
   render() {
